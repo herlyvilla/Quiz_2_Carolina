@@ -7,8 +7,8 @@ Es el procesador principal de la computadora que interpreta y ejecuta instruccio
 2.🎶 **Bus de datos**
 Canal de comunicación que transporta información entre los distintos componentes de la computadora. Existen buses internos (CPU-memoria) y externos (periféricos).
  
-3.⚫ **Documento**
-es un archivo digital que contiene texto, datos, imágenes, audio o vídeo, de modo que incluye información que puede ser utilizada, visualizada y compartida directamente
+3.⚫ **Kernel**
+Núcleo del sistema operativo que se encarga de gestionar memoria, procesos y dispositivos. Es la capa que comunica directamente el hardware con el software.
 
 4.**🐨 Proxy**
 Servidor intermedio que gestiona peticiones entre un cliente e internet, usado para filtrado y anonimato.
@@ -21,8 +21,7 @@ Es el conjunto de normas de comportamiento y buena educación que deben observar
 7.☺️ **Sistema Operativo**
 Software que gestiona el hardware y permite la interacción del usuario con la computadora. Ejemplos: Windows, Linux, macOS, Android e iOS.
 
-2. 🔷 **kERNEL**
-Núcleo del sistema operativo que se encarga de gestionar memoria, procesos y dispositivos. Es la capa que comunica directamente el hardware con el software.
+
 
 
 
