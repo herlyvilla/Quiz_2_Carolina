@@ -7,7 +7,7 @@ Es el procesador principal de la computadora que interpreta y ejecuta instruccio
 2.🎶 **Bus de datos**
 Canal de comunicación que transporta información entre los distintos componentes de la computadora. Existen buses internos (CPU-memoria) y externos (periféricos).
  
-3.⚫ **DOCUMENTO**
+3.⚫ **Documento**
 es un archivo digital que contiene texto, datos, imágenes, audio o vídeo, de modo que incluye información que puede ser utilizada, visualizada y compartida directamente
 
 4.💕 **Least Privilege (Principio de mínimo privilegio)**
