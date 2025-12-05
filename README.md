@@ -10,8 +10,8 @@ Canal de comunicación que transporta información entre los distintos component
 3.⚫ **Documento**
 es un archivo digital que contiene texto, datos, imágenes, audio o vídeo, de modo que incluye información que puede ser utilizada, visualizada y compartida directamente
 
-4.💕 **Least Privilege (Principio de mínimo privilegio)**
-Es una práctica de seguridad que otorga a cada usuario, sistema o proceso solo los permisos estrictamente necesarios para cumplir su función, reduciendo la superficie de ataque.
+4.**🐨 Proxy**
+Servidor intermedio que gestiona peticiones entre un cliente e internet, usado para filtrado y anonimato.
 
 5.😂 **SDD (Unidad de Estado solido)** Dispositivo de almacenamiento basado en memoria flash. Es mucho mas rapido que un disco duro tradicional y no tiene partes moviles, lo que lo hace mas resistente a golpes.
 
